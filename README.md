@@ -1,3 +1,7 @@
+
+<h1>NOTE! THIS IS FORKED AMD MAINTAINED BY EVERESTWORKS AS OUR OFFICIAL DISTRO OF NEOFETCH! THIS IS A CONTINUATION AND ENHANCEMENT OF THE ORIGINAL!</h1>
+
+
 <h3 align="center"><img src="https://i.imgur.com/ZQI2EYz.png" alt="logo" height="100px"></h3>
 <p align="center">A command-line system information tool written in bash 3.2+</p>
 
